@@ -1,8 +1,8 @@
 {
     "name": "TG-String-Session",
     "description": "A bot for Generating String Session of Telegram Account mostly for Userbots.",
-    "repository": "https://github.com/AbirHasan2005/TG-String-Session",
-    "logo": "https://telegra.ph/file/9d25c6bc85a8bfcca98df.jpg",
+    "repository": "https://github.com/taitangamer/TG-String-Session",
+    "logo": "https://telegra.ph/file/3b9730e0042579e85c243.jpg",
     "keywords": [
         "python",
         "telegram"
